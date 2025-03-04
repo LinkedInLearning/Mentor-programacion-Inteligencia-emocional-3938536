@@ -1,5 +1,7 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Mentor de programación: Inteligencia emocional
+
+This is the repository for the LinkedIn Learning course `Mentor de programación: Inteligencia emocional
+`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
