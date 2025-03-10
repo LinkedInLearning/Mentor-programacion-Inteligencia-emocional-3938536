@@ -1,0 +1,59 @@
+.container {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+
+.loading {
+    color: blue;
+    font-weight: bold;
+}
+
+.errorMessage {
+    color: red;
+    font-weight: bold;
+}
+
+.details {
+    margin-bottom: 12px;
+}
+
+.name {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.email {
+    color: gray;
+    font-style: italic;
+}
+
+.actions {
+    display: flex;
+    gap: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.editButton {
+    background-color: green;
+    color: white;
+}
+
+.deleteButton {
+    background-color: red;
+    color: white;
+}
+
+.messageButton {
+    background-color: purple;
+    color: white;
+}

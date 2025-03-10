@@ -1,0 +1,14 @@
+{
+    "id": "12345",
+    "name": "Erik Porroa",
+    "email": "erik@ejemplo.com",
+    "createdAt": "2022-05-15T10:23:45.678Z",
+    "role": "admin",
+    "status": "active",
+    "profilePicture": "https://ejemplo.com/images/erik.jpg",
+    "lastLogin": "2025-03-04T14:30:00.000Z",
+    "team": {
+        "id": "team-001",
+        "name": "Frontend"
+    }
+}

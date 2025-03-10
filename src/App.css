@@ -1,0 +1,9 @@
+:root {
+    --bs-primary: #007bff;
+    --bs-secondary: #6c757d;
+    --bs-tertiary: #e83e8c; /* Bootstrap does not have a default tertiary color, so you can define your own */
+    --bs-primary-bg: #007bff;
+    --bs-secondary-bg: #6c757d;
+    --bs-tertiary-bg: #e83e8c;
+}
+
